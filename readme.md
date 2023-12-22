@@ -12,7 +12,7 @@ This basic calculator app allows users to perform standard arithmetic operations
 - Subtraction
 - Multiplication
 - Division
-- Clear and Delete functionality
+- Clear and Equal-to functionality
 
 ## Demo
 
@@ -51,29 +51,24 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Enter numbers using the provided buttons.
 2. Use the operation buttons to perform calculations.
 3. Click the "C" button to clear the input.
-4. Click the "Del" button to delete the last digit.
+4. Click the "=" button to Show result.
 
 ## Contributing
 
 Feel free to contribute to the development of this calculator app by opening issues or submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by basic calculator designs.
 - Built as a learning project for HTML, CSS, and JavaScript.
+- Youtube videos assitance
 
 ## Author
 
-[Your Name]
+[Jelilking]
 
 ## Contact
 
-For any inquiries or feedback, please contact [your.email@example.com].
+For any inquiries or feedback, please contact [abduljelilozigi@gmail.com].
 
 ---
-
-**Note:** Replace placeholders such as `[Demo Link]`, `screenshot.png`, `your-username`, `[your.email@example.com]`, and `[Your Name]` with the appropriate details for your project.
