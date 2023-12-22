@@ -20,7 +20,7 @@ You can try out the calculator app by visiting [Demo Link](#) (replace with your
 
 ## Screenshots
 
-![Calculator App Screenshot](screenshot.png)
+![![caculator img](image.png)](screenshot.png)
 
 ## Technologies Used
 
